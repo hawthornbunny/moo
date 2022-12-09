@@ -1,10 +1,10 @@
-# Moo v1.0.0
+# Moo v1.0.1
 Last updated: 8th December 2022
 
 ## Introduction
 This is a complete set of rules for the card game Moo, a variant of the rule-changing card game known as Mao.
 
-* [Frequently-asked questions](faq.md)
+* [Frequently Asked Questions](faq.md)
 
 ## Rules of Moo
 
@@ -43,12 +43,12 @@ This is a complete set of rules for the card game Moo, a variant of the rule-cha
 
 ### 5. Giving penalties
 500. If a player breaks a rule, any player may give them a penalty by saying a formal penalty call which corresponds to the infraction committed, and giving the offending player one face-down card from the draw pile.
-     500.1. Players cannot be penalized more than once for the same instance of an infraction.
-     500.2. If a single action by a player breaks multiple rules at the same time, they may be given separate penalties for each rule broken.
-     500.3. Players may penalize their own infractions.
+     * 500.1. Players cannot be penalized more than once for the same instance of an infraction.
+     * 500.2. If a single action by a player breaks multiple rules at the same time, they may be given separate penalties for each rule broken.
+     * 500.3. Players may penalize their own infractions.
 501. If a player calls an invalid penalty, they may be penalized, with the penalty call "Bad call". The penalty they were going to give is voided.
-     501.1. A penalty is invalid if the player being penalized did not commit the infraction referred to in the penalty call.
-     501.2. A penalty is invalid if it is not issued within a short time of the infraction.
+     * 501.1. A penalty is invalid if the player being penalized did not commit the infraction referred to in the penalty call.
+     * 501.2. A penalty is invalid if it is not issued within a short time of the infraction.
 502. If a penalty is voided or revoked, any penalty cards that resulted from the penalty must be returned to the draw pile face down. Shuffle the draw pile if necessary.
 503. Some rules require actions to be taken immediately. Players must be given a feasible amount of time to complete these actions, and cannot be penalized for failing to complete them if they have not been given sufficient time to do so.
 
@@ -56,8 +56,8 @@ This is a complete set of rules for the card game Moo, a variant of the rule-cha
 600. If a player has any Moo Tokens, they may spend one and say "Introducing new rule" to add a new secret rule to the game. If the rule is one that can be broken, the player should also invent an appropriate penalty call for players who break it.
 601. If a new rule conflicts with an existing rule, the new rule takes precedence.
 602. If a rule is invalid, it is considered void and players do not have to follow it.
-     602.1. If a rule would not be applicable to all players equally once everyone has full knowledge of the rule, it is invalid.
-     602.2. If a rule is not deducible, either from observation or from information provided in the penalty call, it is invalid.
+     * 602.1. If a rule would not be applicable to all players equally once everyone has full knowledge of the rule, it is invalid.
+     * 602.2. If a rule is not deducible, either from observation or from information provided in the penalty call, it is invalid.
 
 ### 7. Speech rules
 700. If a rule requires the player to say something, and they do not say it, they may be penalized with the penalty call "Failure to say (X)", where (X) is the thing they did not say. If they continue to fail to say the required thing, they may be penalized again after a short time with the penalty call "Continued failure to say (X)".
@@ -70,7 +70,7 @@ This is a complete set of rules for the card game Moo, a variant of the rule-cha
 803. Players must not say "Point of Order" during a Point of Order, other than when making the call to end it. If they do, they may be penalized with the penalty call "Saying P of O in a P of O".
 804. A player may propose a vote in a Point of Order. Votes may be used to change any aspect of the game, including amending or removing rules, or reversing penalty decisions. If a majority of players agree, the vote passes and the game changes accordingly.
 805. To end a Point of Order, any player may say "End of Point of Order". Gameplay resumes from where it was stopped.
-     805.1. The 10 second turn timer is restarted when resuming play after a Point of Order.
+     * 805.1. The 10 second turn timer is restarted when resuming play after a Point of Order.
 
 ### 9. Other infractions
 900. If the rules say that a player must do something, and they do not do it, they may be penalized with a penalty call "Failure to (X)", where (X) is the thing they did not do. If they continue to fail to do the required thing, they may be penalized again with the penalty call "Repeated failure to (X)". This continues until they do the required thing.
@@ -82,6 +82,6 @@ This is a complete set of rules for the card game Moo, a variant of the rule-cha
 906. If a player explains any rule of the game, they may be penalized with the penalty call "Explaining the rules".
 907. If a player performs an action which is considered unsporting, they may be penalized with the penalty call "Unsporting conduct". Players may use their own discretion to decide what is unsporting.
 908. If a player performs an action which is considered to be cheating, they may be penalized with the penalty call "Cheating". In addition to the definitions of cheating provided in these rules, players may use their own discretion to to decide what is cheating.
-      908.1. Discarding or removing a card from one's hand in any way not permitted by the rules, is cheating.
-      908.2. Reordering the play pile is cheating.
-      908.3. Peeking at or manipulating another player's hand cards without their consent is cheating.
+      * 908.1. Discarding or removing a card from one's hand in any way not permitted by the rules, is cheating.
+      * 908.2. Reordering the play pile is cheating.
+      * 908.3. Peeking at or manipulating another player's hand cards without their consent is cheating.

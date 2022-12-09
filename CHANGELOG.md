@@ -1,2 +1,6 @@
 ## 1.0.0
-First release of Moo.
+* First release of Moo.
+
+## 1.0.1
+* Fixed broken list indentation.
+* Tidied up the FAQ.
