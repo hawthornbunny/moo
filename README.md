@@ -1,5 +1,5 @@
-# Moo v1.0.1
-Last updated: 8th December 2022
+# Moo v1.0.2
+Last updated: 9th December 2022
 
 ## Introduction
 This is a complete set of rules for the card game Moo, a variant of the rule-changing card game known as Mao.
@@ -41,8 +41,8 @@ This is a complete set of rules for the card game Moo, a variant of the rule-cha
 405. If a player plays the 9 of Diamonds, they must say "That's the bovine".
 406. Playing a Joker is considered to be equivalent to playing a 9 of Diamonds.
 
-### 5. Giving penalties
-500. If a player breaks a rule, any player may give them a penalty by saying a formal penalty call which corresponds to the infraction committed, and giving the offending player one face-down card from the draw pile.
+### 5. Penalties
+500. If a player breaks a rule, any player may give them a penalty by saying a formal penalty call which corresponds to the infraction committed, and giving the offending player one face-down card from the draw pile. In these rules, the term "penalize" is equivalent to this penalty action.
      * 500.1. Players cannot be penalized more than once for the same instance of an infraction.
      * 500.2. If a single action by a player breaks multiple rules at the same time, they may be given separate penalties for each rule broken.
      * 500.3. Players may penalize their own infractions.
@@ -50,7 +50,9 @@ This is a complete set of rules for the card game Moo, a variant of the rule-cha
      * 501.1. A penalty is invalid if the player being penalized did not commit the infraction referred to in the penalty call.
      * 501.2. A penalty is invalid if it is not issued within a short time of the infraction.
 502. If a penalty is voided or revoked, any penalty cards that resulted from the penalty must be returned to the draw pile face down. Shuffle the draw pile if necessary.
-503. Some rules require actions to be taken immediately. Players must be given a feasible amount of time to complete these actions, and cannot be penalized for failing to complete them if they have not been given sufficient time to do so.
+503. If the rules say that a player must do something, and they do not do it, they may be penalized with a penalty call "Failure to (X)", where (X) is the thing they did not do. If they continue to fail to do the required thing, they may be penalized again with the penalty call "Repeated failure to (X)". This continues until they do the required thing.
+504. Some rules require actions to be taken immediately. Players must be given a feasible amount of time to complete these actions, and cannot be penalized for failing to complete them if they have not been given sufficient time to do so.
+505. If multiple rules require actions to be taken simultaneously, the player may choose the order in which they take those actions, with the exception of saying "Moo" to earn a Moo Token, which must be the last action taken before leaving the game.
 
 ### 6. Introducing new rules
 600. If a player has any Moo Tokens, they may spend one and say "Introducing new rule" to add a new secret rule to the game. If the rule is one that can be broken, the player should also invent an appropriate penalty call for players who break it.
@@ -59,29 +61,24 @@ This is a complete set of rules for the card game Moo, a variant of the rule-cha
      * 602.1. If a rule would not be applicable to all players equally once everyone has full knowledge of the rule, it is invalid.
      * 602.2. If a rule is not deducible, either from observation or from information provided in the penalty call, it is invalid.
 
-### 7. Speech rules
-700. If a rule requires the player to say something, and they do not say it, they may be penalized with the penalty call "Failure to say (X)", where (X) is the thing they did not say. If they continue to fail to say the required thing, they may be penalized again after a short time with the penalty call "Continued failure to say (X)".
-701. If multiple rules require the player to say things at the same time, they must say all of them, or be penalized for the ones they did not say. The player may choose which order to say the things in, with the exception of saying "Moo" to earn a Moo Token, which must be the last thing said before leaving the game.
+### 7. Point of Order rules
+700. If a player says "Point of Order" and a Point of Order is not currently in progress, a Point of Order is started.
+701. Players must put down their cards at the start of a Point of Order, and must not touch them while the Point of Order is in progress. If they do, they may be penalized with the penalty call "Touching cards during a P of O".
+702. During a Point of Order, normal gameplay is suspended. Players cannot play cards, the turn order does not advance, and the time limit for playing cards does not apply. All other rules remain in effect.
+703. Players must not say "Point of Order" during a Point of Order, other than when making the call to end it. If they do, they may be penalized with the penalty call "Saying P of O in a P of O".
+704. A player may propose a vote in a Point of Order. Votes may be used to change any aspect of the game, including amending or removing rules and reversing penalty decisions. If a majority of players agree, the vote passes and the game changes accordingly.
+705. To end a Point of Order, any player may say "End of Point of Order". Gameplay resumes from where it was stopped.
+     * 705.1. The 10 second turn timer is restarted when resuming play after a Point of Order.
 
-### 8. Point of Order rules
-800. If a player says "Point of Order" and a Point of Order is not currently in progress, a Point of Order is started.
-801. Players must put down their cards at the start of a Point of Order, and must not touch them while the Point of Order is in progress. If they do, they may be penalized with the penalty call "Touching cards during a P of O".
-802. During a Point of Order, normal gameplay is suspended. Players cannot play cards, the turn order does not advance, and the time limit for playing cards does not apply. All other rules remain in effect.
-803. Players must not say "Point of Order" during a Point of Order, other than when making the call to end it. If they do, they may be penalized with the penalty call "Saying P of O in a P of O".
-804. A player may propose a vote in a Point of Order. Votes may be used to change any aspect of the game, including amending or removing rules, or reversing penalty decisions. If a majority of players agree, the vote passes and the game changes accordingly.
-805. To end a Point of Order, any player may say "End of Point of Order". Gameplay resumes from where it was stopped.
-     * 805.1. The 10 second turn timer is restarted when resuming play after a Point of Order.
-
-### 9. Other infractions
-900. If the rules say that a player must do something, and they do not do it, they may be penalized with a penalty call "Failure to (X)", where (X) is the thing they did not do. If they continue to fail to do the required thing, they may be penalized again with the penalty call "Repeated failure to (X)". This continues until they do the required thing.
-901. On a player's turn, if they do not play a card or pick up a card from the draw pile within 10 seconds, they may be penalized with the penalty call "Failure to play within 10 seconds". If they continue to fail to play, they may be penalized with "Continued failure to play within 10 seconds" for each additional 10 seconds that they fail to play.
-902. If a player plays a card when it is not their turn, they may be penalized with the penalty call "Playing out of turn". Their play is not considered valid. They must take back any cards that they played.
-903. If a player has only one card remaining in their hand, they must say "Last card". If they do not, they may be penalized with the penalty call "Failure to say 'Last card'".
-904. If a player says "Moo" at any time other than when starting the game or when correctly doing so to earn a Moo Token, they may be penalized with the penalty call "Taking the name of the Great Bovine Deity in vain". For this and only this infraction, the penalty is 3 cards instead of the usual 1.
-905. If a player says something which is untrue, they may be penalized with the call "Lying". This applies even if the untruth is unintentional.
-906. If a player explains any rule of the game, they may be penalized with the penalty call "Explaining the rules".
-907. If a player performs an action which is considered unsporting, they may be penalized with the penalty call "Unsporting conduct". Players may use their own discretion to decide what is unsporting.
-908. If a player performs an action which is considered to be cheating, they may be penalized with the penalty call "Cheating". In addition to the definitions of cheating provided in these rules, players may use their own discretion to to decide what is cheating.
-      * 908.1. Discarding or removing a card from one's hand in any way not permitted by the rules, is cheating.
-      * 908.2. Reordering the play pile is cheating.
-      * 908.3. Peeking at or manipulating another player's hand cards without their consent is cheating.
+### 8. Other infractions
+801. On a player's turn, if they do not play a card or pick up a card from the draw pile within 10 seconds, they may be penalized with the penalty call "Failure to play within 10 seconds".
+802. If a player plays a card when it is not their turn, they may be penalized with the penalty call "Playing out of turn". Their play is not considered valid. They must take back any cards that they played.
+803. If a player has only one card remaining in their hand, they must say "Last card".
+804. If a player says "Moo" at any time other than when starting the game or when correctly doing so to earn a Moo Token, they may be penalized with the penalty call "Taking the name of the Great Bovine Deity in vain". For this and only this infraction, the penalty is 3 cards instead of the usual 1.
+805. If a player says something which is untrue, they may be penalized with the call "Lying". This applies even if the untruth is unintentional.
+806. If a player explains any rule of the game, they may be penalized with the penalty call "Explaining the rules".
+807. If a player performs an action which is considered unsporting, they may be penalized with the penalty call "Unsporting conduct". Players may use their own discretion to decide what is unsporting.
+808. If a player performs an action which is considered to be cheating, they may be penalized with the penalty call "Cheating". In addition to the definitions of cheating provided in these rules, players may use their own discretion to to decide what is cheating.
+      * 808.1. Discarding or removing a card from one's hand in any way not permitted by the rules, is cheating.
+      * 808.2. Reordering the play pile is cheating.
+      * 808.3. Peeking at or manipulating another player's hand cards without their consent is cheating.
