@@ -7,3 +7,6 @@
 
 ## 1.0.2
 * Clarified some rules and removed the redundant speech rules section.
+
+## 1.0.3
+* Added an "Entering and leaving the game" rules section.
