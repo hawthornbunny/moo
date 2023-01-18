@@ -10,3 +10,6 @@
 
 ## 1.0.3
 * Added an "Entering and leaving the game" rules section.
+
+## 1.0.4
+* Removed the "Explaining the rules" rule.
