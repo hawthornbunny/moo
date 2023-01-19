@@ -13,3 +13,6 @@
 
 ## 1.0.4
 * Removed the "Explaining the rules" rule.
+
+## 1.0.5
+* Slight tweak to the formatting of the example opening preamble.

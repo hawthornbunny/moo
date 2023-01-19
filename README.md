@@ -1,5 +1,5 @@
-# Moo v1.0.4
-Last updated: 18th January 2023
+# Moo v1.0.5
+Last updated: 19th January 2023
 
 ## Introduction
 This is a complete set of rules for the card game Moo, a variant of the rule-changing card game known as Mao.
@@ -17,7 +17,8 @@ This is a complete set of rules for the card game Moo, a variant of the rule-cha
 200. A player who knows the rules of Moo should start the game by taking the following steps:
      * Shuffle all cards and place them face-down to create the draw pile.
      * Deal out 5 face-down cards to each player for their starting hands.
-     * Formally announce the start of the game. Here is an example opening preamble: "We are now playing the game of Moo. In this game, all rules are secret, except for these three: Players take turns in a clockwise direction, you may pick up a card if you cannot play, and the Joker is the 9 of Diamonds."
+     * Formally announce the start of the game. Here is an example opening preamble:
+       > "We are now playing the game of Moo. In this game, all rules are secret, except for these three: Players take turns in a clockwise direction, you may pick up a card if you cannot play, and the Joker is the 9 of Diamonds."
      * Take a card from the draw pile and lay it face up to start the play pile.
 
 ### 3. Gameplay
