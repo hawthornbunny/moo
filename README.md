@@ -1,4 +1,4 @@
-# Moo v1.0.5
+# Moo v1.0.6
 Last updated: 19th January 2023
 
 ## Introduction
@@ -80,8 +80,8 @@ This is a complete set of rules for the card game Moo, a variant of the rule-cha
 902. If a player has only one card remaining in their hand, they must say "Last card".
 903. If a player says "Moo" at any time other than when starting the game or when correctly doing so to earn a Moo Token, they may be penalized with the penalty call "Taking the name of the Great Bovine Deity in vain". For this and only this infraction, the penalty is 3 cards instead of the usual 1.
 904. If a player says something which is untrue, they may be penalized with the call "Lying". This applies even if the untruth is unintentional.
-906. If a player performs an action which is considered unsporting, they may be penalized with the penalty call "Unsporting conduct". Players may use their own discretion to decide what is unsporting.
-907. If a player performs an action which is considered to be cheating, they may be penalized with the penalty call "Cheating". In addition to the definitions of cheating provided in these rules, players may use their own discretion to to decide what is cheating.
-      * 907.1. Discarding or removing a card from one's hand in any way not permitted by the rules, is cheating.
-      * 907.2. Reordering the play pile is cheating.
-      * 907.3. Peeking at or manipulating another player's hand cards without their consent is cheating.
+905. If a player performs an action which is considered unsporting, they may be penalized with the penalty call "Unsporting conduct". Players may use their own discretion to decide what is unsporting.
+906. If a player performs an action which is considered to be cheating, they may be penalized with the penalty call "Cheating". In addition to the definitions of cheating provided in these rules, players may use their own discretion to to decide what is cheating.
+      * 906.1. Discarding or removing a card from one's hand in any way not permitted by the rules, is cheating.
+      * 906.2. Reordering the play pile is cheating.
+      * 906.3. Peeking at or manipulating another player's hand cards without their consent is cheating.

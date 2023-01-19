@@ -16,3 +16,6 @@
 
 ## 1.0.5
 * Slight tweak to the formatting of the example opening preamble.
+
+## 1.0.6
+* Fixed incorrect rule numbering.
