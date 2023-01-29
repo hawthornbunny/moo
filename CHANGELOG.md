@@ -19,3 +19,6 @@
 
 ## 1.0.6
 * Fixed incorrect rule numbering.
+
+## 1.0.7
+* Added a new rule to clarify the "Repeated failure to (X)" situation.

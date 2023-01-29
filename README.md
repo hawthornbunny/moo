@@ -1,10 +1,10 @@
-# Moo v1.0.6
-Last updated: 19th January 2023
+# Moo v1.0.7
+Last updated: 29th January 2023
 
 ## Introduction
 This is a complete set of rules for the card game Moo, a variant of the rule-changing card game known as Mao.
 
-* [Frequently Asked Questions](faq.md)
+* [FAQ](faq.md)
 
 ## Rules of Moo
 
@@ -52,11 +52,12 @@ This is a complete set of rules for the card game Moo, a variant of the rule-cha
      * 600.2. If a single action by a player breaks multiple rules at the same time, they may be given separate penalties for each rule broken.
      * 600.3. Penalties must be issued within a short time of the infraction.
      * 600.4. Players may penalize their own infractions.
-601. If the rules say that a player must do something, and they do not do it, they may be penalized with a penalty call "Failure to (X)", where (X) is the thing they did not do. If they continue to fail to do the required thing, they may be penalized again with the penalty call "Repeated failure to (X)".
-602. If a player calls an invalid penalty, they may be penalized, with the penalty call "Bad call". The penalty they were going to give is voided.
-603. If a penalty is voided or revoked, return any penalty cards that resulted from the penalty to the draw pile face down, shuffling the draw pile if necessary.
-604. Some rules require actions to be taken immediately. Players must be given a feasible amount of time to complete these actions, and cannot be penalized for failing to complete them if they have not been given sufficient time to do so.
-605. If multiple rules require actions to be taken simultaneously, the player may choose the order in which they take those actions, with the exception of saying "Moo" to earn a Moo Token, which must be the last action taken before leaving the game.
+601. If a player calls an invalid penalty, they may be penalized, with the penalty call "Bad call". The penalty they were going to give is voided.
+602. If a penalty is voided or revoked, return any penalty cards that resulted from the penalty to the draw pile face down, shuffling the draw pile if necessary.
+603. If a rule says that a player must do something, and they do not do it, they may be penalized. The rule may provide a specific penalty call to be used. If it does not, the general call "Failure to (X)" can be used instead, where (X) is the thing they did not do.
+604. If a player was penalized for failing to do something, and they continue to fail to do it, they may be penalized again with a penalty call of the form "Repeated failure to (X)", until they do. This only applies as long as it is still legal for them to take that action.
+605. If a rule requires a player to take an action, the player must be given a feasible amount of time to do so.
+606. If multiple rules require actions to be taken simultaneously, the player may choose the order in which they take those actions, with the exception of saying "Moo" to earn a Moo Token, which must be the last action taken before leaving the game.
 
 ### 7. Introducing new rules
 700. If a player has any Moo Tokens, they may spend one and say "Introducing new rule" to add a new secret rule to the game. If necessary, the player should also invent an appropriate penalty call for players who break it. New rules may amend existing rules.
@@ -79,7 +80,7 @@ This is a complete set of rules for the card game Moo, a variant of the rule-cha
 901. If a player plays a card when it is not their turn, they may be penalized with the penalty call "Playing out of turn". Their play is not considered valid. They must take back any cards that they played.
 902. If a player has only one card remaining in their hand, they must say "Last card".
 903. If a player says "Moo" at any time other than when starting the game or when correctly doing so to earn a Moo Token, they may be penalized with the penalty call "Taking the name of the Great Bovine Deity in vain". For this and only this infraction, the penalty is 3 cards instead of the usual 1.
-904. If a player says something which is untrue, they may be penalized with the call "Lying". This applies even if the untruth is unintentional.
+904. If a player says something which is untrue, they may be penalized with the penalty call "Lying". This applies even if the untruth is unintentional.
 905. If a player performs an action which is considered unsporting, they may be penalized with the penalty call "Unsporting conduct". Players may use their own discretion to decide what is unsporting.
 906. If a player performs an action which is considered to be cheating, they may be penalized with the penalty call "Cheating". In addition to the definitions of cheating provided in these rules, players may use their own discretion to to decide what is cheating.
       * 906.1. Discarding or removing a card from one's hand in any way not permitted by the rules, is cheating.
