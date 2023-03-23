@@ -1,5 +1,5 @@
-# Moo v1.0.7
-Last updated: 29th January 2023
+# Moo v1.0.8
+Last updated: 30th January 2023
 
 ## Introduction
 This is a complete set of rules for the card game Moo, a variant of the rule-changing card game known as Mao.
@@ -26,7 +26,7 @@ This is a complete set of rules for the card game Moo, a variant of the rule-cha
 301. To complete their turn, a player must:
      * Either play a valid card face-up to the play pile, or draw one card from the draw pile.
      * Take all other actions required of them on their turn, if any.
-302. A card is valid if it has the same rank or suit as the last played card.
+302. A card is valid if it has the same rank or suit as the last played card. If a player plays a card that is not valid, they may be penalized with the penalty call "Bad card".
 303. If a player has no cards remaining in their hand, and has no remaining actions left to perform, and has not committed any infractions for which they could be penalized, they must say "Moo" to earn one Moo Token, and leave the game. If they fail to say "Moo", they may be penalized with the penalty call "Failure to say the name of the Great Bovine Deity".
 304. A player may voluntarily donate a Moo Token to another player.
 305. If the draw pile is exhausted, take all but the top card of the play pile, turn those cards face-down, and shuffle them. Those cards become the new draw pile.
@@ -55,7 +55,7 @@ This is a complete set of rules for the card game Moo, a variant of the rule-cha
 601. If a player calls an invalid penalty, they may be penalized, with the penalty call "Bad call". The penalty they were going to give is voided.
 602. If a penalty is voided or revoked, return any penalty cards that resulted from the penalty to the draw pile face down, shuffling the draw pile if necessary.
 603. If a rule says that a player must do something, and they do not do it, they may be penalized. The rule may provide a specific penalty call to be used. If it does not, the general call "Failure to (X)" can be used instead, where (X) is the thing they did not do.
-604. If a player was penalized for failing to do something, and they continue to fail to do it, they may be penalized again with a penalty call of the form "Repeated failure to (X)", until they do. This only applies as long as it is still legal for them to take that action.
+604. If a player was penalized for failing to do something, and they continue to fail to do it, they may be penalized again with a penalty call of the form "Repeated failure to (X)". The penalty may be repeated until they take the required action. This only applies for as long as it is still legal for them to take that action.
 605. If a rule requires a player to take an action, the player must be given a feasible amount of time to do so.
 606. If multiple rules require actions to be taken simultaneously, the player may choose the order in which they take those actions, with the exception of saying "Moo" to earn a Moo Token, which must be the last action taken before leaving the game.
 

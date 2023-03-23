@@ -22,3 +22,6 @@
 
 ## 1.0.7
 * Added a new rule to clarify the "Repeated failure to (X)" situation.
+
+## 1.0.8
+* Added the "Bad card" rule.
