@@ -1,4 +1,4 @@
-# Moo v1.1.0
+# Moo v1.1.1
 Last updated: 9 Nov 2024
 
 ## Introduction
@@ -17,7 +17,7 @@ This is a complete set of rules for the card game Moo, a variant of the rule-cha
 200. A player who knows the rules of Moo should start the game by taking the following steps:
      * Shuffle all cards and place them face-down to create the draw pile.
      * Deal out 5 face-down cards to each player for their starting hands.
-     * Formally announce the start of the game. Here is an example opening preamble:
+     * Formally announce the start of the game. An opening preamble may be given, during which the player is permitted to explain any rules they wish to. Here is an example opening preamble:
        > "We are now playing the game of Moo. In this game, all rules are secret, except for these three: Players take turns in a clockwise direction, you may pick up a card if you cannot play, and the Joker is the 9 of Diamonds."
      * Take a card from the draw pile and lay it face up to start the play pile.
 
@@ -77,12 +77,14 @@ This is a complete set of rules for the card game Moo, a variant of the rule-cha
      * 803.1. The 10 second turn timer is restarted when resuming play after a Point of Order.
 
 ### 9. Other infractions
-900. On a player's turn, if they do not play a card or pick up a card from the draw pile within 10 seconds, they may be penalized. The penalty call for this is "Failure to play within 10 seconds".
+900. On a player's turn, if they do not play a card or pick up a card from the draw pile within 10 seconds, they may be penalized. The penalty call for this is "Failure to play within 10 seconds". This penalty may be applied repeatedly for every 10 seconds that the player fails to play.
 901. If a player plays a card when it is not their turn, they may be penalized with the penalty call "Playing out of turn". Their play is not considered valid. They must take back any cards that they played.
-902. If a player has only one card remaining in their hand, they must say "Last card".
+902. If a player has only one card remaining in their hand after playing a card or after ending their turn, they must say "Last card".
 903. If a player says "Moo" at any time other than when starting the game or when correctly doing so to earn a Moo Token, they may be penalized with the penalty call "Taking the name of the Great Bovine Deity in vain". For this and only this infraction, the penalty is 3 cards instead of the usual 1.
-904. If a player performs an action which is considered unsporting, they may be penalized with the penalty call "Unsporting conduct". Players may use their own discretion to decide what is unsporting.
-905. If a player performs an action which is considered to be cheating, they may be penalized with the penalty call "Cheating". In addition to the definitions of cheating provided in these rules, players may use their own discretion to to decide what is cheating.
-      * 905.1. Discarding or removing a card from one's hand in any way not permitted by the rules, is cheating.
-      * 905.2. Reordering the play pile is cheating.
-      * 905.3. Peeking at or manipulating another player's hand cards without their consent is cheating.
+905. If a player asks for any rule of the game to be explained, they may be penalized with the penalty call "Asking the rules".
+906. If a player explains any rule of the game at any time other than during the opening preamble, they may be penalized with the penalty call "Explaining the rules".
+907. If a player performs an action which is considered unsporting, they may be penalized with the penalty call "Unsporting conduct". Players may use their own discretion to decide what is unsporting.
+908. If a player performs an action which is considered to be cheating, they may be penalized with the penalty call "Cheating". In addition to the definitions of cheating provided in these rules, players may use their own discretion to to decide what is cheating.
+      * 908.1. Discarding or removing a card from one's hand in any way not permitted by the rules, is cheating.
+      * 908.2. Reordering the play pile is cheating.
+      * 908.3. Peeking at or manipulating another player's hand cards without their consent is cheating.

@@ -35,3 +35,9 @@
 * Removed the "Lying" rule.
 * Tidied up some wording in the FAQ.
 * Added a "Games like Moo" section to the FAQ.
+
+## 1.1.1
+* Tweaked the wording of some rules for clarity.
+* Added the "Asking the rules" rule.
+* Added the "Explaining the rules" rule.
+* Fixed a missing bullet point in the FAQ.
